@@ -3,6 +3,7 @@
 
 
 A simple python script to spider info from TNT supermarket.
+Using Selenium to Simulate Human Input Operations to unlock websites loading.
 
 
 ## Run
@@ -10,7 +11,7 @@ A simple python script to spider info from TNT supermarket.
 OS X & Linux:
 
 ```sh
-python3 taobaomeishi.py
+python3 tnt_spider.py
 ```
 
 
